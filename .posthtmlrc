@@ -7,12 +7,194 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Beneath the fluorescent lights of a middle school gym, a group of students chatter excitedly as they wait in eager anticipation for their first fencing class. A few minutes pass, and the sounds of laughter and conversation mingle with taps, clashes, swishes, and quick footsteps."
+          },
+          {
+            "type": "text",
+            "value": "Hamilton Grange Middle School and Eagle Academy for Young Men of Harlem are two West Harlem middle schools that have partnered with the Prescod Institute for Sport, Teamwork, and Education to bring fencing to youth from under-resourced communities. Founded by two-time Olympic foil fencer Nzingha Prescod, CC ’15, PISTE is a nonprofit organization dedicated to bridging gaps in accessibility and quality education and fostering learning environments that encourage high performance and resilience through fencing. PISTE hosts regular classes and programs at no charge to participating families."
+          },
+          {
+            "type": "text",
+            "value": "<b>The woman behind the mission</b>"
+          },
+          {
+            "type": "text",
+            "value": "Prescod had always known that she wanted to create a fencing clinic for youth in her community. Growing up in an under-resourced neighborhood in Brooklyn, she and her sister were introduced to fencing when their mother signed them up for classes at the Peter Westbrook Foundation in Manhattan—founded in 1991 by renowned sabre fencer Peter Westbrook, the first African American to earn an Olympic medal in fencing. The eponymous organization seeks to create a safe learning environment for fencing that inspires the pursuit of excellence and aids local youth in overcoming social, financial, and health barriers."
+          },
+          {
+            "type": "text",
+            "value": "“It was unusual for me to be a fencer,” Prescod said. “It was outside … the blueprint of what’s available to people like me from where I grew up,” she said. “It influenced my trajectory in such a positive way that I wanted to recreate it, my youth experience, for the kids in my neighborhood who have had very limited sports and youth development opportunities that were inspiring excellence and preparing youth to be excellent. So I saw the deficiency in the resources, and then I saw the fencing world, a very affluent set of people, what they have and what my peers had in my neighborhood had and so I wanted to bridge that gap.”"
+          },
+          {
+            "type": "text",
+            "value": "Prescod attended Columbia from 2011-15 and majored in political science with a concentration in race and ethnicity studies. Through her areas of interest, she delved into sports diplomacy and the potential of leveraging sports as a medium for advancing socioeconomic mobility. Initially, Prescod intended to pursue this mission mainly through policy and legislation, but she found the process overly bureaucratic and detached from the issues she was seeking to address."
+          },
+          {
+            "type": "text",
+            "value": "“The process takes so long and it’s very political,” Prescod said. “You can do all the advocacy and awareness and campaigning and socializing the message that you want and there’s just no guarantee that you’re going to be staffed into a position where you’re executing that. So while I was seeing how that was going to play out, I started Fencing in the Park.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>En garde, prêts, allez: Fencing in the Park</b>"
+          },
+          {
+            "type": "text",
+            "value": "In 2020, Prescod reached out to longtime friend and fellow fencer Sara Taffel, BC ’17—now program director and board member at PISTE—about starting a free Fencing in the Park class in Brooklyn."
+          },
+          {
+            "type": "text",
+            "value": "With the help of friends and community members, this free fencing class would eventually become PISTE. Prescod and Taffel acquired equipment from Absolute Fencing—one of Prescod’s sponsors—and reached out to their teammates to volunteer and coach. The classes started small, mostly with kids who discovered the program through word of mouth."
+          },
+          {
+            "type": "text",
+            "value": "“It was maybe 10 kids,” Taffel said. “If we saw a kid in the park and we were starting class, we asked them if they wanted to learn how to fence. … And then they started coming back week by week, so we would do these hour-long sessions, or no, a couple hours on long days, outdoors.”"
+          },
+          {
+            "type": "text",
+            "value": "Prescod and Taffel did not expect to continue the program past the summer of 2020. Businesses were reopening, people were returning to school and work, and they each had their own jobs."
+          },
+          {
+            "type": "text",
+            "value": "Parents and kids, however, expressed continued interest and a growing list of people wanted to participate. After securing funding, the nascent program held several more clinics in Brooklyn and set up community fencing demonstrations throughout the city. The expansion of Fencing in the Park allowed PISTE and its main subbranch, PISTE Fencing Academy, to open in the fall of 2022."
+          },
+          {
+            "type": "text",
+            "value": "Initially operating out of a community space at the Flatbush YMCA, the academy provided competitive training, group, and private lessons and supplied uniforms and gear free of cost. Students were able to train intensively after school three to four times a week and engage in supplementary educational enrichment programming which included tutoring, chess, and classes in art, music, dance, and journalism."
+          },
+          {
+            "type": "text",
+            "value": "Since its inception, the academy has continued to grow. The program currently has roughly 60 students, and at the end of last year, PISTE moved into its own permanent fencing space in Starrett City, Brooklyn."
+          },
+          {
+            "type": "text",
+            "value": "<b>Overcoming barriers</b>"
+          },
+          {
+            "type": "text",
+            "value": "With Fencing in the Park, Prescod explored “sport as a tool for mobilization” that can provide an alternative route for college admissions."
+          },
+          {
+            "type": "text",
+            "value": "Fencing, however, has a long history of elitism, often excluding those from under-resourced communities because the sport is expensive to learn and compete in. Fencing follows a “pay to play” model, with government programs playing a relatively small role. For Taffel, the United States’ lack of centralized government sports programs contrasts with the subsidized programs of countries like France which are “very centralized and easy to access.”"
+          },
+          {
+            "type": "text",
+            "value": "“Not everyone can afford to pay for $80 for one 20-minute lesson,” Prescod said, which she noted is a standard price for a fencing lesson."
+          },
+          {
+            "type": "text",
+            "value": "Aziza Hassan, a fencing coach at Eagle Academy, explained that the most expensive aspect of the sport is travel cost. Fencing, especially at a higher level, is travel-heavy."
+          },
+          {
+            "type": "text",
+            "value": "PISTE provides no-cost access to a sport that would otherwise be very expensive."
+          },
+          {
+            "type": "text",
+            "value": "“That program comes at no cost, meaning the families don’t pay anything,” Taffel said. “We provide everything.”"
+          },
+          {
+            "type": "text",
+            "value": "Although PISTE is still in its first years, its staff is eager to accomplish new goals. As students advance in their fencing careers, the academy also hopes to eventually financially support their students at higher levels of competition."
+          },
+          {
+            "type": "text",
+            "value": "“We’re hoping to be able to provide scholarships to do competitive travel as well,” Taffel said. “That’s just not a bridge that we’ve crossed yet but that’s part of our plan when they’re ready.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>Bringing fencing into the classroom</b>"
+          },
+          {
+            "type": "text",
+            "value": "Soon after its founding in 2020, PISTE incorporated other youth programs including partnerships with various public, charter, and independent schools in the city that aim to make fencing more accessible."
+          },
+          {
+            "type": "text",
+            "value": "As part of this programming, PISTE partnered with Hamilton Grange and Eagle Academy. Funded in part by a grant from the West Harlem Development Corporation, the programs feature multi-week curricula that introduce students to basic fencing skills and the history of the sport."
+          },
+          {
+            "type": "text",
+            "value": "A typical session begins with a brief stretch and warm-up, which then transitions into conditioning and footwork. During the latter half of the class, students don fencing equipment and complete drills before engaging in bouting themselves."
+          },
+          {
+            "type": "text",
+            "value": "The initiative at Hamilton Grange is the institute’s longest-standing school program and is currently in its fourth year of operation. Through the program, which spans an entire academic year, PISTE has nurtured a vibrant fencing culture and community at the school. This year, the program has 30 participants, and there are 30 more on the waitlist. One student participant, Jiro Pinofeld-Sato, is now a two-time champion in the New York City Middle School Athletic League fencing competition. Program alumni have expressed interest in continuing fencing after the year’s end."
+          },
+          {
+            "type": "text",
+            "value": "“I’ve been doing [coaching] for three years pretty much,” Zachary Binder, CC ’25, a Columbia fencing team captain and coach at Hamilton Grange, said. “It’s cool to watch if I teach a kid in sixth grade, watching them grow up and to be an eighth grader and then go off to high school.”"
+          },
+          {
+            "type": "text",
+            "value": "New York City Council member Shaun Abreu, CC ’14, who represents District 7, has also been providing funding to support the program since 2022."
+          },
+          {
+            "type": "text",
+            "value": "“I am so pleased to have allocated $20,000 to the fencing program at Hamilton Grange Middle School during my time in office,” Abreu wrote in a statement to Spectator. “This funding is going a long way—providing equipment, keeping kids healthy and active, and affording students an opportunity to engage in an activity that’s pretty uncommon around here. The path to Olympic fencing runs through Hamilton Grange.”"
+          },
+          {
+            "type": "text",
+            "value": "PISTE’s collaboration with Eagle Academy is currently in its first year. The program is an expansion of the institute’s outreach in West Harlem. The partnership arose when Sabrina Ellis, New York State Sen. Cordell Cleare’s district office coordinator, informed Prescod that Eagle Academy was interested in starting a fencing program. PISTE then laid the groundwork by communicating with the principal, securing a grant, assigning coaches, and building a curriculum."
+          },
+          {
+            "type": "text",
+            "value": "The program includes an 11-session program for seventh and eighth graders and a nine-session program for sixth graders at the school, both of which culminate in final scrimmages. Students will receive a certificate for recognition of successful program completion. Class sessions are integrated into school hours and taught by two coaches. PISTE’s coaching team includes Olympic, NCAA, and internationally ranked fencers; the organization prioritized hiring a group of diverse, high-performing fencers who could serve as role models for the students."
+          },
+          {
+            "type": "text",
+            "value": "“The kids are teaching you just as much as you’re teaching them,” Hassan said. “They show you what you need to work on as well, as far as communication, consistency, and confidence.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>Advancing with purpose: PISTE’s plans for the future</b>"
+          },
+          {
+            "type": "text",
+            "value": "PISTE seeks to equip its students with leadership and teamwork skills that contribute to success outside the arena. The organization’s programs, coaching philosophy, and diverse, inspirational staff reflect this goal, emphasizing six core values—sportsmanship, innovation, self-determination, unity, excellence, and resilience."
+          },
+          {
+            "type": "text",
+            "value": "“It’s correlated to a lot of leadership qualities, like working with a team, setting goals, being a self-starter, taking initiative, learning the value of practice and repetition,” Prescod said. “They’re absorbing these skills and they’re developing and they’re creating pathways for themselves to get into good schools, get good jobs, and to develop the character that will have that ability.”"
+          },
+          {
+            "type": "text",
+            "value": "Looking to the future, PISTE hopes to secure additional funding to grow its academy and accompanying tutoring program, facilitate a pathway for students to compete nationally this year, expand its school initiative to collaborate with 10 to 15 schools across the city, and increase outreach in West Harlem. From Feb. 10-11, the academy and school program students will attend the Ivy League Fencing Championships which will be held in Levien Gymnasium."
+          },
+          {
+            "type": "text",
+            "value": "In the long term, the institute aspires to reach over 1,000 students across the city, establish a for-profit subset to fund the academy, develop new character development-driven curriculums, and support the expansion of free fencing education outside of New York City."
+          },
+          {
+            "type": "text",
+            "value": "“Right now, we offer tutoring programs for our academy only,” Taffel said during the January Community Board 9 youth, education, and libraries meeting. “With more support in the future, and possibly another grant, we’d be able to extend that tutoring opportunity to students in our school programs as well. … That’s what we’re hoping for: more partnerships. Especially in West Harlem, so we can expand access to our classes.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>City News Staff Writer Miranda Lu can be contacted at </i><a href=\"mailto:miranda.lu@columbiaspectator.com\"><i>miranda.lu@columbiaspectator.com</i></a><i>. Follow them on X </i><b><i>@</i></b><a href=\"https://twitter.com/_mirandaalu\"><i>_mirandaalu</i></a>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Sports Staff Writer Aidan Hassan can be contacted at </i><a href=\"mailto:aidan.hassan@columbiaspectator.com\"><i>aidan.hassan@columbiaspectator.com</i></a><i>. </i><i>Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "PISTE brings fencing to West Harlem schools, bridging gaps to accessibility",
+        "date": "February 7, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/miranda-lu/\">Miranda Lu</a> and <a href=\"https://www.columbiaspectator.com/contributors/aidan-hassan/\">Aidan Hassan</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/PBNJBSZR2VAX5MGP45R7QRSUMY.jpg",
+        "cover_caption": "Yanchi Zheng / Staff Illustrator",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1SzMCTpXMXR-3JcjSDppnNzGseOgcFRP8gPtlTx2F5A4/edit"
       }
     }
   }
